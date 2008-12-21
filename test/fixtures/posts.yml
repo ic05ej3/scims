@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  primary_language_title: MyString
+  primary_language_body: MyString
+  identifier: MyString
+
+two:
+  primary_language_title: MyString
+  primary_language_body: MyString
+  identifier: MyString

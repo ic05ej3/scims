@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  primary_language_link_name: MyString
+  primary_language_title: MyString
+  primary_language_body: MyString
+  creator_id: 1
+  updater_id: 1
+  parent_id: 1
+
+two:
+  primary_language_link_name: MyString
+  primary_language_title: MyString
+  primary_language_body: MyString
+  creator_id: 1
+  updater_id: 1
+  parent_id: 1
